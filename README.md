@@ -70,6 +70,8 @@ __Prequisites__
 
 2. Note down your User ID<br><br>
 
+<ins>Final Steps</ins>
+
 You now have all the information required to customize the python script to your own.
 
 1. Open the Python script in your chosen code editor.
